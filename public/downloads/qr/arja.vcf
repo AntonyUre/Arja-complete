@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:
+ORG:ARJA;
+X-ABShowAs:COMPANY
+NOTE:\n
+item1.ADR;TYPE=WORK;TYPE=pref:;;Ctra. els Alamús\, s/n;Els Alamús;Lleida;25
+ 221;Spain
+item1.X-ABADR:es
+TEL;TYPE=WORK;TYPE=pref;TYPE=VOICE:+34 973 199 163
+TEL;TYPE=WORK;TYPE=FAX:+34 973 199 190
+item2.URL;TYPE=pref:http://arja.com
+item2.X-ABLABEL:_$!<HomePage>!$_
+EMAIL;TYPE=WORK;TYPE=pref;TYPE=INTERNET:info@arja.com
+PRODID:-//Apple Inc.//iCloud Web Address Book 16D59//EN
+REV:2016-07-18T08:48:33Z
+END:VCARD
